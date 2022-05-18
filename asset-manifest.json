@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc442edd.css",
+    "main.js": "/static/js/main.f6594419.js",
+    "static/js/787.214c8c68.chunk.js": "/static/js/787.214c8c68.chunk.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/UCSD_logo.png": "/static/media/UCSD_logo.d730459f404007711dd9.png",
+    "index.html": "/index.html",
+    "static/media/favicon.svg": "/static/media/favicon.bd87568312728160900a7b94efc9d8db.svg",
+    "main.bc442edd.css.map": "/static/css/main.bc442edd.css.map",
+    "main.f6594419.js.map": "/static/js/main.f6594419.js.map",
+    "787.214c8c68.chunk.js.map": "/static/js/787.214c8c68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc442edd.css",
+    "static/js/main.f6594419.js"
+  ]
+}
